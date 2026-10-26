@@ -1,6 +1,5 @@
  # AI Study Assistant
-
-## Project Overview
+ ## Project Overview
 AI Study Assistant is a proposed artificial intelligence system designed to help students improve their learning experience, organize their study schedules, and manage their time effectively.
 
 The Problem
